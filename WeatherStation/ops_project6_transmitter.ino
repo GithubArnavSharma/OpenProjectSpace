@@ -2,7 +2,7 @@
 #include <Adafruit_AHTX0.h>
 #include <Wire.h>
 //Find the mac address of your receiver ESP32 first, then enter it in here:
-uint8_t receiverAddress[] = {0xA8, 0x46, 0x74, 0x5C, 0x19, 0x2C};
+uint8_t receiverAddress[] = {.........};
 
 WeatherReport report;      // global initialization of WeatherReport
 
