@@ -80,7 +80,7 @@ void loop() {
  data.vx = x_val;
  data.vy = y_val;
  data.sw = button_state;
-  send_data(receiverAddress, data);
+ send_data(receiverAddress, data);
 
 
  delay(250);
