@@ -4,9 +4,7 @@
 
 
 //Tape = left motor wires
-//CHANGE TO PROPER ADDRESS
-//
-uint8_t receiverAddress[] = {0xA8, 0x46, 0x74, 0x5C, 0x19, 0x2C};
+uint8_t receiverAddress[] = {...........};
 
 
 //Vx: 214-217 ish is middle, 255 is the up, 0 is the down
